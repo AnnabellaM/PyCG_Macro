@@ -1,1 +1,1 @@
-# PyCG_Benchmark
+# PyCG Macro Benchmark
